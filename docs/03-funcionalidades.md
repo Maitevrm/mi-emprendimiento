@@ -1,4 +1,4 @@
-# Objetivos del usuario y funcionalidades — [Nombre del emprendimiento]
+# Objetivos del usuario y funcionalidades — Construcciones Maibru
 
 > Guía: [Objetivos del usuario y funcionalidades](../evaluacion/guias/fase-1-requerimientos/03-funcionalidades.md)
 
@@ -7,9 +7,9 @@
 <!-- Qué quiere lograr tu proto-persona cuando entra a tu sitio.
 Revisa sus necesidades y frustraciones: ahí suelen estar los objetivos. -->
 
-1.
-2.
-3.
+1.Conocer los servicios que ofrece Construcciones Maibru.
+2.Ver trabajos realizados para comprobar la calidad del servicio.
+3.Solicitar una cotización y contactar rápidamente con el emprendimiento.
 
 ## Funcionalidades
 
@@ -19,15 +19,13 @@ Prioridad: Imprescindible / Deseable / Futuro. -->
 
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
 |---|---|---|---|---|
-| | | El usuario debe poder dejar sus datos para... | Base (landing) | |
-| | | El usuario debe poder navegar los artículos por categoría... | Base (blog) | |
-| | | El usuario debe poder comentar un artículo | Base (blog) | |
-| | | El usuario debe poder compartir un artículo en... | Base (blog) | |
-| | | El usuario debe poder buscar productos por... | Base (tienda) | |
-| | | El usuario debe poder filtrar productos por... | Base (tienda) | |
-| | | El usuario debe poder ver el detalle de un producto, elegir... y agregarlo al carrito | Base (tienda) | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
+|Camila | Conocer los servicios. | El usuario debe poder visualizar los servicios de construcción e instalación de ventanas. | Propia | Alta |
+|Camila | Conocer los servicios. | El usuario debe poder revisar fotografías de trabajos realizados, filtrando por tipo de obra o ventana. | Propia | Alta |
+|Camila | Conocer los servicios. |  El usuario debe poder navegar y filtrar el catálogo de ventanas por categoría (material o tipo de apertura). | Base (tienda) | Alta |
+|Camila | Solicitar cotización. | El usuario debe poder completar un formulario de cotización indicando comuna, tipo de trabajo y medidas. | Base (landing) | Alta |
+|Camila | Solicitar cotización. | El usuario debe poder agregar ventanas a "Mi cotización" y enviar la lista por WhatsApp. | Base (tienda) | Alta |
+|Camila | Solicitar cotización.| El usuario debe poder comunicarse directamente mediante un botón de WhatsApp. | Propia | Alta |
+|Camila | Generar confianza. | El usuario debe poder ver las comunas de la V Región donde la empresa trabaja. | Propia | Alta |
+|Camila | Generar confianza. | El usuario debe poder revisar testimonios o referencias de clientes. | Propia | Media |
+|Camila | Generar confianza. | El usuario debe poder acceder a una sección "Sobre nosotros"| Base (landing) | Media |
+|Camila | Generar confianza. | El usuario debe poder encontrar información de contacto y redes sociales. | Base (landing) | Alta |

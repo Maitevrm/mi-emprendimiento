@@ -1,23 +1,24 @@
-# Brief — Piedra Viva
+# Brief — Construcciones Maibru
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Piedra Viva es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
+Construcciones Maibru es un emprendimiento de la region de Valparaiso, dedicado al rubro de la construcción, especializado principalmente en remodelaciónes e instalación de ventanas (PVC, Termopanel, Aluminio y vidrios templados), y en la realización de trabajos relacionados con construcción y terminaciones.
 
+El negocio busca entregar soluciones a clientes que necesitan instalar, renovar o mejorar ventanas y realizar distintos trabajos de construcción, ofreciendo atención personalizada y cotizaciones según las necesidades de cada proyecto.
 ## Propuesta de valor
 
-Ayudamos a dueños de casa, arquitectos y constructores que buscan revestimientos duraderos a concretar sus proyectos sin complicaciones gracias a la venta directa de productos Budnik junto a un servicio llave en mano de instalación profesional y pulido efecto espejo para baldosas de interior.
+Ayudamos a personas, propietarios y clientes que necesitan realizar trabajos de construcción o instalación de ventanas, entregando soluciones personalizadas, trabajo de calidad y atención directa, adaptándonos a las necesidades de cada proyecto.
 
 ## Objetivo del sitio
 
-- **Principal:** Recibir solicitudes de cotización y proyectos para la venta de productos junto con el servicio de instalación/pulido a través de WhatsApp o formulario de contacto.
-- **Secundario:** Posicionar la marca generando confianza al mostrar un catálogo de productos con un portafolio visual de trabajos e instalaciones ya realizadas.
+- **Principal:** Conseguir nuevos clientes y solicitudes de cotización mediante un sitio web donde las personas puedan conocer los servicios de Construcciones Maibru y contactarse fácilmente.
+- **Secundario:** Posicionar la marca generando confianza al mostrar los principales servicios ofrecidos, exhibir fotografías de trabajos realizados, generar confianza y profesionalismo. Facilitar el contacto mediante WhatsApp o teléfono.2wz
 
 ## Referentes
 
 | Marca | Qué hace bien |
 |---|---|
-| Budnik | Muestra fichas técnicas muy detalladas, formatos de productos y la resistencia específica según el tipo de uso (tráfico alto, interior o exterior). |
-| Baldosas Córdoba | Presenta de forma clara sus proyectos terminados e inspira confianza al mostrar el acabado final del trabajo de instalación y pulido tradicional. |
+| Multiventanas SpA | Se especializa en ventanas y soluciones relacionadas. Es un buen referente porque permite observar cómo una empresa del mismo rubro presenta sus servicios y productos para generar confianza en sus clientes. |
+| Aluvima | Empresa de Villa Alemana dedicada a la fabricación e instalación de ventanas, puertas y estructuras de PVC y aluminio. Es un referente cercano al rubro de Construcciones Maibru. |
