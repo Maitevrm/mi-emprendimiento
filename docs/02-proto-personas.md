@@ -4,7 +4,7 @@
 
 ## Proto-persona principal
 
-<!-- Imagen: ![Camila](img/Camila_.png) -->
+![Camila](img/Camila_.png)
 
 **Camila, 38 años.** Trabajadora independiente y dueña de casa.
 
