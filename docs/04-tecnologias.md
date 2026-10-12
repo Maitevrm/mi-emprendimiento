@@ -1,4 +1,4 @@
-# Tecnologías del proyecto — Construcciones Maibru
+# Tecnologías del proyecto — Construcciones Maibru SpA
 
 > Guía: [Tecnologías del proyecto](../evaluacion/guias/fase-1-requerimientos/04-tecnologias.md)
 

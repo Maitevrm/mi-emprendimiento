@@ -1,4 +1,4 @@
-# Objetivos del usuario y funcionalidades — Construcciones Maibru
+# Objetivos del usuario y funcionalidades — Construcciones Maibru SpA
 
 > Guía: [Objetivos del usuario y funcionalidades](../evaluacion/guias/fase-1-requerimientos/03-funcionalidades.md)
 
