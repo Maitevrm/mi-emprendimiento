@@ -1,15 +1,15 @@
-# Brief — Construcciones Maibru
+# Brief — Construcciones Maibru SpA
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Construcciones Maibru es un emprendimiento de la region de Valparaiso, dedicado al rubro de la construcción, especializado principalmente en remodelaciónes e instalación de ventanas (PVC, Termopanel, Aluminio y vidrios templados), y en la realización de trabajos relacionados con construcción y terminaciones.
+Construcciones Maibru SpA es un emprendimiento real de la región de Valparaíso, perteneciente a mi familia, dedicado al rubro de la construcción. Se especializa en la instalación de ventanas (PVC, termopanel, aluminio y vidrios templados) y en remodelaciones de todo tipo, además de trabajos de construcción y terminaciones.
 
-El negocio busca entregar soluciones a clientes que necesitan instalar, renovar o mejorar ventanas y realizar distintos trabajos de construcción, ofreciendo atención personalizada y cotizaciones según las necesidades de cada proyecto.
+La empresa no fabrica las ventanas: ofrece el producto, que manda a fabricar a un proveedor de confianza, y se encarga también de la instalación. De esta forma, el cliente trata con una sola empresa, desde la cotización hasta el trabajo terminado, con atención personalizada según las necesidades de cada proyecto.
 ## Propuesta de valor
 
-Ayudamos a personas, propietarios y clientes que necesitan realizar trabajos de construcción o instalación de ventanas, entregando soluciones personalizadas, trabajo de calidad y atención directa, adaptándonos a las necesidades de cada proyecto.
+Ayudamos a propietarios y personas de la región de Valparaíso a instalar o renovar sus ventanas y a remodelar sus espacios sin tener que coordinar por separado al proveedor y al instalador. Nos encargamos del producto y de la mano de obra, con atención directa y una cotización a la medida de cada proyecto.
 
 ## Objetivo del sitio
 
