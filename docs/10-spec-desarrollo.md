@@ -1,4 +1,4 @@
-# Spec de desarrollo — [Nombre del emprendimiento]
+# Spec de desarrollo — Construcciones Maibru SpA
 
 > Guía: [Spec de desarrollo](../evaluacion/guias/fase-2-specs/07-spec-de-desarrollo.md)
 
